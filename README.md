@@ -34,7 +34,7 @@
         </tr>
         <tr>
             <td>beecrowd</td>
-            <td><a href="[https://www.naukri.com/code360/profile/c95007aa-67ed-4908-88c9-fd235a726e06](https://judge.beecrowd.com/en/profile/627429)" target="_blank">2219_Ramim</a></td>
+            <td><a href="https://judge.beecrowd.com/en/profile/627429" target="_blank">2219_Ramim</a></td>
             <td>49</td>
         </tr>
     </tbody>
