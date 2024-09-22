@@ -39,17 +39,17 @@
         <tr>
             <td>Codeforces</td>
             <td><a href="https://codeforces.com/profile/Ramim1234" target="_blank">Ramim1234</a></td>
-            <td>100</td>
+            <td>641</td>
         </tr>
         <tr>
             <td>LeetCode</td>
-            <td><a href="#" target="_blank">LeetCodeProfile</a></td>
-            <td>200</td>
+            <td><a href="https://leetcode.com/u/Ramim1234/" target="_blank">Ramim1234</a></td>
+            <td>28</td>
         </tr>
         <tr>
-            <td>AtCoder</td>
-            <td><a href="#" target="_blank">AtCoderProfile</a></td>
-            <td>50</td>
+            <td>code360</td>
+            <td><a href="https://www.naukri.com/code360/profile/c95007aa-67ed-4908-88c9-fd235a726e06" target="_blank">2219_Ramim</a></td>
+            <td>29</td>
         </tr>
     </tbody>
 </table>
