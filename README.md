@@ -38,7 +38,7 @@
             <td>49</td>
         </tr>
         <tr>
-            <td>beecrowd</td>
+            <td>vjudge</td>
             <td><a href="https://vjudge.net/user/Md_ramim" target="_blank">Md_ramim</a></td>
             <td>65</td>
         </tr>
